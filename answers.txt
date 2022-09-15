@@ -3,7 +3,7 @@ Answers :
 
 Ans 1) gitignore file tells git which files or folders should be ignored in project when you commit the project.
 
-Ans 2) In fast-forward merge, git simply moves the source branch pointer to the target branch pointer without creating an extra merge commit.
+Ans 2) With the help of fast-forward merge, git simply moves the source branch's tip to the feature branch pointer without creating different merge commit.
 
 Ans 3) By having different branches in git the developers can branch out from the original code and can work on their part individually or also isolate their work from others. Plus it also help Git to merge versions easily when ever needed.
 
